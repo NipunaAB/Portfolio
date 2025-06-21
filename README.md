@@ -1,9 +1,7 @@
 # Mechatronics Engineering
-## Work Experience
-### FIX & FOGG (F2 Holdings Ltd), Wellington, NZ 
-### Machine Operator & Production Assistant 
-**Mar 2025 – Present**
-![bike study and test](/assets/FEA_Simulation.png)
+## Projects
+### MCAD for assembly instructions - GPV Lanka
+![MCAD](/assets/MCAD.png)
 ### GPV Lanka, Kochchikade, Sri Lanka 
 ### Production Engineer 
 **Jun 2024 – Feb 2025**  
