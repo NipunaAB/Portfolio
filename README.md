@@ -2,13 +2,7 @@
 ## Work Experience
 ### FIX & FOGG (F2 Holdings Ltd), Wellington, NZ 
 ### Machine Operator & Production Assistant 
-Mar 2025 – Present  
-
-level 1 item
-level 2 item
-level 2 item
-level 3 item
-level 3 item
+**Mar 2025 – Present**
 
 ### GPV Lanka, Kochchikade, Sri Lanka 
 ### Production Engineer 
